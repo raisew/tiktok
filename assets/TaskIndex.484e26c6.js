@@ -1,0 +1,1 @@
+import{_ as s}from"./TaskIndexItem.68213f50.js";import{c as a,b as d,i as o,o as e}from"./vendor.363ce100.js";const p={class:"pdl-30 pdr-30 pdb-20"},r={setup:r=>(r,t)=>(e(),a("div",null,[d("div",p,[o(s),o(s),o(s),o(s),o(s),o(s),o(s),o(s)])]))};export{r as default};
