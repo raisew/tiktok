@@ -1,1 +1,0 @@
-import{_ as s}from"./ComHeader.b8412a41.js";import{k as a,b as e,q as d,j as l}from"./index.7727cc7f.js";const o=d("div",{class:"pd-25"},null,-1),r={setup:d=>(d,r)=>(l(),a("div",null,[e(s,{class:"header-shadow",headerTitle:"充值記錄"}),o]))};export{r as default};
